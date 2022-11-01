@@ -1,0 +1,6 @@
+@import './tailwind.css';
+.flex-container {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+}
