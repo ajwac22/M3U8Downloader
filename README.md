@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electron-vite-vue
 
 🥳 Really simple `Electron` + `Vue` + `Vite` boilerplate.
@@ -69,3 +70,7 @@ export default {
 - [dependencies vs devDependencies](https://github.com/electron-vite/vite-plugin-electron/tree/main/packages/electron-renderer#dependencies-vs-devdependencies)
 - [Using C/C++ native addons in Electron-Renderer](https://github.com/electron-vite/vite-plugin-electron/tree/main/packages/electron-renderer#load-nodejs-cc-native-modules)
 - [Node.js ESM packages](https://github.com/electron-vite/vite-plugin-electron/tree/main/packages/electron-renderer#nodejs-esm-packages) (e.g. `execa` `node-fetch`)
+=======
+# M3U8Downloader
+m3u8 downloader，m3u8下载器，electron+vue3+vite+ts
+>>>>>>> e9ad9ca24798b2d9b1fbc60a656d5fe423a26ad6
