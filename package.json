@@ -29,7 +29,7 @@
     "tailwindcss": "^3.2.1",
     "typescript": "^4.8.4",
     "unplugin-auto-import": "^0.11.4",
-    "unplugin-icons": "^0.14.13",
+    "unplugin-icons": "^0.15.2",
     "unplugin-vue-components": "^0.22.9",
     "vite": "^3.2.2",
     "vite-electron-plugin": "^0.5.0",
